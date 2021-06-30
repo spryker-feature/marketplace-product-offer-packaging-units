@@ -1,0 +1,17 @@
+{
+    "name": "spryker-feature/marketplace-product-offer-packaging-units",
+    "description": "Marketplace Product Offer Packaging Units [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/product-offer-packaging-unit": "^0.1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
+    }
+}
