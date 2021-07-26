@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.3",
-        "spryker/product-offer-packaging-unit": "^0.1.0"
+        "spryker/product-offer-packaging-unit": "^0.1.1"
     },
     "extra": {
         "branch-alias": {
